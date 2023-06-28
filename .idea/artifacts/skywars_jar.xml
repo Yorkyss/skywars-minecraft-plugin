@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="skywars:jar">
+    <output-path>$PROJECT_DIR$/../skyserv/plugins</output-path>
+    <root id="archive" name="testPlugin.jar">
+      <element id="module-output" name="skwyars" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

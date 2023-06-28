@@ -1,0 +1,185 @@
+lobby:
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  pitch: 0
+teams:
+  world: world
+  t1:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t2:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t3:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t4:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t5:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t6:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t7:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+  t8:
+    spawn:
+      x: 0
+      y: 0
+      z: 0
+      yaw: 0
+      pitch: 0
+kits:
+  default:
+    items: 3
+    1:
+      name: WOOD_SWORD
+      amount: 1
+    2:
+      name: WOOD_AXE
+      amount: 1
+    3:
+      name: STONE
+      amount: 16
+chests:
+  chestXteam: 2
+  itemsXChest: 8
+  items:
+    1:
+      name: STONE_PICKAXE
+      amount: 1
+    2:
+      name: GOLDEN_APPLE
+      amount: 1
+    3:
+      name: FISHING_ROD
+      amount: 1
+    4:
+      name: WOOD
+      amount: 8
+    5:
+      name: IRON_SWORD
+      amount: 1
+    6:
+      name: STONE_SWORD
+      amount: 1
+    7:
+      name: DIRT
+      amount: 32
+    8:
+      name: STONE
+      amount: 48
+  team1:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team2:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team3:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team4:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team5:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team6:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team7:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team8:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
+  team9:
+    1:
+      x: 0
+      y: 0
+      z: 0
+    2:
+      x: 0
+      y: 0
+      z: 0
